@@ -1,0 +1,3 @@
+Dados das vendas:
+Produto: Caf‚, Quantidade: 2, Preco Unitario: R$5.5, Total Gasto: R$11
+Valor total das vendas: R$11
